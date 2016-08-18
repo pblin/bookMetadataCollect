@@ -1,0 +1,272 @@
+http://lx2.loc.gov:210/lcdb?version=1.1&operation=searchRetrieve&query=bath.isbn=9780439353250&maximumRecords=1
+
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema/><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01318cjm a2200277 a 4500</leader>
+  <controlfield tag="001">12814760</controlfield>
+  <controlfield tag="005">20111129144652.0</controlfield>
+  <controlfield tag="008">020612s2001    nyu||n j            eng d</controlfield>
+  <datafield tag="906" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">copycat</subfield>
+    <subfield code="d">3</subfield>
+    <subfield code="e">ncip</subfield>
+    <subfield code="f">20</subfield>
+    <subfield code="g">y-gencatlg</subfield>
+  </datafield>
+  <datafield tag="925" ind1="0" ind2=" ">
+    <subfield code="a">acquire</subfield>
+    <subfield code="b">1 shelf copy</subfield>
+    <subfield code="x">policy default</subfield>
+  </datafield>
+  <datafield tag="955" ind1=" " ind2=" ">
+    <subfield code="a">pv11 2002-06-12 to SSCD</subfield>
+    <subfield code="a">sf00 2002-10-03</subfield>
+    <subfield code="c">sf07 2003-11-20</subfield>
+    <subfield code="d">sf09 2004-04-03</subfield>
+    <subfield code="e">sf04 2004-02-10 to Dewey</subfield>
+    <subfield code="a">aa07 2004-02-27</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2002282907</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">0439353254</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm49669221</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FAR</subfield>
+    <subfield code="c">FAR</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">lccopycat</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">GF86</subfield>
+    <subfield code="b">.L54 2001</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="0">
+    <subfield code="a">613.6/9</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Llewellyn, Claire.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kid's survival handbook /</subfield>
+    <subfield code="c">Claire Llewellyn.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York, NY. :</subfield>
+    <subfield code="b">Scholastic ;</subfield>
+    <subfield code="b">Tangerine Press,</subfield>
+    <subfield code="c">c2001.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">96 p. :</subfield>
+    <subfield code="b">col. ill. ;</subfield>
+    <subfield code="c">20.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">The book is divided into two sections. The first section deals with real emergencies-such as crocodiles, floods, and fire-which we hope will happen only in your imagination. The second section has lots of useful tips such as how to find food, shelter, and water, which could be helpful on hiking trips.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Survival</subfield>
+    <subfield code="v">Juvenile literature.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Wilderness survival</subfield>
+    <subfield code="v">Juvenile literature.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="3">Publisher description</subfield>
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1203/2002282907-d.html</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records></zs:searchRetrieveResponse>
+
+
+http://lx2.loc.gov:210/lcdb?version=1.1&operation=searchRetrieve&query=dc.creator=J%20K%20Rowling&maximumRecords=1
+
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>38</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema/><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03083cgm a22005657a 4500</leader>
+  <controlfield tag="001">14493617</controlfield>
+  <controlfield tag="005">20140905142853.0</controlfield>
+  <controlfield tag="007">mr c|aaf|||||||||------</controlfield>
+  <controlfield tag="008">060811s2005    xxu157            mleng  </controlfield>
+  <datafield tag="906" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">orignew</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="e">ncip</subfield>
+    <subfield code="f">20</subfield>
+    <subfield code="g">y-movingim</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2006640103</subfield>
+  </datafield>
+  <datafield tag="017" ind1=" " ind2=" ">
+    <subfield code="a">PA1-279-121</subfield>
+    <subfield code="b">U.S. Copyright Office</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">amim</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="a">xxu</subfield>
+    <subfield code="a">xxk</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">CGD 8879-8887 (viewing print)</subfield>
+  </datafield>
+  <datafield tag="130" ind1="0" ind2=" ">
+    <subfield code="a">Harry Potter and the goblet of fire (Motion picture)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Harry Potter and the goblet of fire /</subfield>
+    <subfield code="c">a Heyday Films production ; directed by Mike Newell ; produced by David Heyman ; screenplay, Steve Kloves.</subfield>
+  </datafield>
+  <datafield tag="257" ind1=" " ind2=" ">
+    <subfield code="a">United States ; Great Britain.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">United States :</subfield>
+    <subfield code="b">Warner Bros. Pictures,</subfield>
+    <subfield code="c">2005.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="3">viewing print.</subfield>
+    <subfield code="a">18 film reels of 18 on 9 (ca. 157 min., ca. 14,130 ft.) :</subfield>
+    <subfield code="b">sd., col. ;</subfield>
+    <subfield code="c">35 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Copyright: Patalex IV Productions, Ltd. DCR 2005; PUB 16Nov05; REG 15Feb06; PA1-279-121.</subfield>
+  </datafield>
+  <datafield tag="508" ind1=" " ind2=" ">
+    <subfield code="a">Executive producers, David Barron, Tanya Seghatchian ; camera, Roger Pratt; editor, Mick Audsley ; music, Patrick Doyle ; production designer, Stuart Craig ; sound, David Crozier ; special effects supervisor, John Richardson.</subfield>
+  </datafield>
+  <datafield tag="508" ind1=" " ind2=" ">
+    <subfield code="a">Special visual effects and animation, Industrial Light &amp; Magic ; visual effects, Framestore-CFC, the Moving Pictures Co., Double Negative, Cinesite (Europe), Buf, Rising Sun Pictures, the Orphanage, Animal Logic.</subfield>
+  </datafield>
+  <datafield tag="511" ind1="1" ind2=" ">
+    <subfield code="a">Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Ralph Fiennes, Michael Gambon, Gary Oldman, Miranda Richardson, Alan Rickman, Maggie Smith.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Harry finds himself selected as an underaged competitor in a dangerous multi-wizardary school competition.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Summary taken from Internet movie database.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Based on the novel by J.K. Rowling.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Not viewed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Sources used: copyright data base; copyright data sheet; Variety, Nov. 14, 2005; Internet movie database, viewed July 27, 2006.</subfield>
+  </datafield>
+  <datafield tag="541" ind1=" " ind2=" ">
+    <subfield code="3">viewing print;</subfield>
+    <subfield code="d">Received: 3/2/2006;</subfield>
+    <subfield code="c">copyright deposit--RNR;</subfield>
+    <subfield code="a">Copyright Collection.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Potter, Harry</subfield>
+    <subfield code="c">(Fictitious character)</subfield>
+    <subfield code="v">Drama.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Granger, Hermione (Fictitious character)</subfield>
+    <subfield code="v">Drama.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Weasley, Ron (Fictitious character)</subfield>
+    <subfield code="v">Drama.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film adaptations.</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiction films.</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fantasy films.</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Newell, Mike,</subfield>
+    <subfield code="d">1942-</subfield>
+    <subfield code="e">direction.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Heyman, David,</subfield>
+    <subfield code="d">1961-</subfield>
+    <subfield code="e">production.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kloves, Steven,</subfield>
+    <subfield code="e">writing.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Radcliffe, Daniel,</subfield>
+    <subfield code="d">1989-</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Grint, Rupert,</subfield>
+    <subfield code="d">1988-</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Watson, Emma,</subfield>
+    <subfield code="d">1990-</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Coltrane, Robbie,</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fiennes, Ralph,</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gambon, Michael,</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Richardson, Miranda,</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rickman, Alan,</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Maggie,</subfield>
+    <subfield code="d">1934-</subfield>
+    <subfield code="e">cast.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rowling, J. K.</subfield>
+    <subfield code="t">Harry Potter and the goblet of fire.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Copyright Collection (Library of Congress)</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:nextRecordPosition>2</zs:nextRecordPosition></zs:searchRetrieveResponse>
